@@ -1,0 +1,3 @@
+# pip install django-crisp-forms
+# pip install django-cleanup
+# pip install pillow
